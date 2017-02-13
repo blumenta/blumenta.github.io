@@ -56,11 +56,10 @@ Classics
 * [Differential Topology, Video lectures by John Milnor.](https://www.youtube.com/watch?v=1LwkljjLBns&list=PLelIK3uylPMFHC6Xny11XFXgwwtv9_PO3)
 * [Richard Feynman Video Lectures.](http://www.vega.org.uk/video/subseries/8)
 
-Vulgarisation and talks
+Popularization and talks
 =================
 * [CHAOS.](http://www.chaos-math.org/en)  A math movie by Jos Leys, Etienne Ghys and Aurelien Alvarez.
 * [Dimensions.](https://www.youtube.com/watch?list=PL3C690048E1531DC7&v=6cpTEPT5i0A) A math movie by Jos Leys, Etienne Ghys and Aurelien Alvarez.
-* [A presentation by Prof. Ciarlet on intrinsic shell theories](http://videochannel.ust.hk/Watch.aspx?Video=A6AECF913634F5D5)
 
 
 
@@ -69,3 +68,4 @@ Misc
 * [N-Body Choreographies](http://gminton.org/#choreo)
 * [Three body problem](http://media4.obspm.fr/public/M2R/cours/chapitre3/souschapitre3/section1/INTRODUCTION/page1.html)
 * [Mercury's Perihelion Advance](http://www.alternativephysics.org/book/MercuryPerihelion.htm)
+* [A presentation by Prof. Ciarlet on intrinsic shell theories](http://videochannel.ust.hk/Watch.aspx?Video=A6AECF913634F5D5)
