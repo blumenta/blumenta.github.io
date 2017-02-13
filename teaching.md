@@ -15,7 +15,9 @@ A collection of jupyter/ipython notebooks on machine learning and optimization.
 ml-coursera
 -----------------
 My solutions to the programming assignments in Andrew Ng's Machine Learning mooc on Coursera.
-* 
+
+
+* Exercise 1 - .
 * [Exercise 2 - Logistic Regression](http://nbviewer.jupyter.org/github/blumenta/machine-learning-notebooks/blob/master/ml-coursera/ex2-logistic-regression/ex2-logistic-regression.ipynb)
 * [Exercise 3 - Multiclass Classification and Neural Networks](http://nbviewer.jupyter.org/github/blumenta/machine-learning-notebooks/blob/master/ml-coursera/ex3-multiclass-classification-and-neural-networks/ex3.ipynb)
 
