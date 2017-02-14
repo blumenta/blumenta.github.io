@@ -7,6 +7,7 @@ header-img: "img/about-bg.jpg"
 
 # Ensimag Courses
 During my PhD I taught [Numerical Methods](http://ensimag.grenoble-inp.fr/cursus-ingenieur/introduction-to-numerical-methods-3mmmnb-388058.kjsp), [Numerical Optimization](http://ensimag.grenoble-inp.fr/cursus-ingenieur/numerical-optimization-4mmon-388392.kjsp), [Computer Aided Geometric Design](http://ensimag.grenoble-inp.fr/cursus-ingenieur/computer-aided-geometric-design-4mmmg-388384.kjsp?RH=ENSIMAG-EN-02_Educ) and [Analysis for Engineers](http://ensimag.grenoble-inp.fr/cursus-ingenieur/analysis-for-engineers-3mmai-388070.kjsp?RH=ENSIMAG-EN-02_Educ) at Grenoble-INP Ensimag. I post here some extra computational materials (mostly Jupyter notebooks) that I prepared for my classes. 
+
 ### Numerical Methods
 Some extra materials (Jupyter notebooks) for the  at Ensimag.
 * [Finite differences and linear systems](http://nbviewer.jupyter.org/github/blumenta/blumenta.github.io/blob/master/notebooks/ensimag/td-mn-differences-finies-systemes-lineaires.ipynb)
