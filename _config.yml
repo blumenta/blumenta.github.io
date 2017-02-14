@@ -1,8 +1,8 @@
 # Site settings
-title: Clean Blog
+title: Welcome
 header-img: img/home-bg.jpg
 email: alejandro.blumentals@gmail.com
-copyright_name: Your/Project/Corporate Name
+copyright_name: Alejandro Blumentals
 description: "Write your site description here. It will be used as your sites meta description as well!"
 baseurl: ""
 url: "http://yourdomain.com"
@@ -14,6 +14,7 @@ email_username:  alejandro.blumentals@gmail.com
 # google_tracking_id:
 
 # Build settings
+future: true
 markdown: kramdown
 highlighter: rouge
 permalink: pretty
