@@ -10,6 +10,7 @@ During my PhD I taught [Numerical Methods](http://ensimag.grenoble-inp.fr/cursus
 
 ### Numerical Methods
 Some extra materials (Jupyter notebooks) for the  at Ensimag.
+
 * [Finite differences and linear systems](http://nbviewer.jupyter.org/github/blumenta/blumenta.github.io/blob/master/notebooks/ensimag/td-mn-differences-finies-systemes-lineaires.ipynb)
 * [Ordinary differential equations - the (classical) motion of Mercury](http://nbviewer.jupyter.org/github/blumenta/blumenta.github.io/blob/master/notebooks/ensimag/td-mn-edo.ipynb)
 
