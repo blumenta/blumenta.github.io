@@ -22,6 +22,6 @@ Alejandro Blumentals, Bernard Brogliato, Florence Bertails-Descoubes. [The Conta
 
 Alejandro Blumentals, Florence Bertails-Descoubes, Romain Casati. [Dynamics of a developable shell with uniform curvatures.](https://hal.inria.fr/hal-01311559) The 4th Joint International Conference on Multibody System Dynamics, May 2016, Montréal, Canada.]
 
-Alejandro Blumentals, Florence Bertails-Descoubles. [A Discrete Hamilton-Pontryagin approach to the statics of Kirchhoff Rods.](../papers/blumentals_bertails_abstract_MBD_2017_LaTeX.pdf) Submitted to ECCOMAS Thematic Conference on Multibody Dynamics June 19-22, 2017, Prague, Czech Republic.
+Alejandro Blumentals, Florence Bertails-Descoubles. [A Discrete Hamilton-Pontryagin approach to the statics of Kirchhoff Rods.](../papers/blumentals_bertails_abstract_MBD_2017_LaTeX.pdf) ECCOMAS Thematic Conference on Multibody Dynamics June 19-22, 2017, Prague, Czech Republic.
 
 
