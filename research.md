@@ -1,16 +1,20 @@
 ---
 layout: page
-title: "About"
+title: "Research"
 description: "This is what I do."
 header-img: "img/about-bg.jpg"
 ---
 
 # About me
 
-I'm a PhD student in Mathematics and Computer Science at [Inria Grenoble](https://www.inria.fr/en/centre/grenoble/welcome-inria-grenoble-rhone-alpes). My work within the [Bipop research team](http://www.inrialpes.fr/bipop/) focuses on the numerical mechanics of thin elastic structures in contact. I also teach several applied math courses at [ENSIMAG](http://ensimag.grenoble-inp.fr/l-ensimag/) in the Grenoble Institute of Technology.
+I'm a Research Engineer in autonomous driving at [Inria Grenoble](https://www.inria.fr/en/centre/grenoble/welcome-inria-grenoble-rhone-alpes). My current work focuses on the use of Model Predictive Control for the generation of safe collision avoiding trajectories for autonomous vehicles. 
 
+I did my PhD in Mathematics and Computer Science at [Inria Grenoble](https://www.inria.fr/en/centre/grenoble/welcome-inria-grenoble-rhone-alpes). My doctoral work within the [Bipop research team](http://www.inrialpes.fr/bipop/) focused on the numerical mechanics of thin elastic structures in contact. I also taught several applied math courses at [ENSIMAG](http://ensimag.grenoble-inp.fr/l-ensimag/) in the Grenoble Institute of Technology.
 
 # Publications
+
+## PhD Thesis.
+Alejandro Blumentals. [Numerical modelling of thin elastic solids in contact]()
 
 ## Journal
 
