@@ -19,6 +19,7 @@ You can find me at office E115, Inria Grenoble Rhone-Alpes, 655 Avenue de l'Euro
 Email
 ---------------------
 
-My email adress is alejandro.blumentals@inria.fr
+My email adress: alejandro.blumentals@inria.fr
+
 [My LinkedIn](http://www.linkedin.com/in/alejandro-blumentals/)
 

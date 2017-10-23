@@ -13,8 +13,8 @@ I did my PhD in Mathematics and Computer Science at [Inria Grenoble](https://www
 
 # Publications
 
-## PhD Thesis.
-Alejandro Blumentals. [Numerical modelling of thin elastic solids in contact]()
+## PhD Thesis
+Alejandro Blumentals. [Numerical modelling of thin elastic solids in contact.]()
 
 ## Journal
 
