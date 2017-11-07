@@ -23,6 +23,11 @@ Machine Learning and Optimization
 * [Deep Learning School 2016](https://www.youtube.com/playlist?list=PLrAXtmErZgOfMuxkACrYnD2fTgbzk2THW)
 * [Stochastic Convex Optimization in Machine Learning](https://www.youtube.com/playlist?list=PLo4jXE-LdDTTR8sH8rJindqSX9IeobHE-)
 
+Reinforcement Learning
+=================
+* [RL bootcamp Berkeley 2017](https://sites.google.com/view/deep-rl-bootcamp/lectures)
+* [Deepmind and UCL course on RL](http://www0.cs.ucl.ac.uk/staff/d.silver/web/Teaching.html)
+
 Optimal Control
 =================
 
