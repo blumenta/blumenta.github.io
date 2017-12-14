@@ -7,7 +7,7 @@ header-img: "img/about-bg.jpg"
 
 # About me
 
-I'm a Research Engineer in autonomous driving at [Inria Grenoble](https://www.inria.fr/en/centre/grenoble/welcome-inria-grenoble-rhone-alpes). My current work focuses on the use of Model Predictive Control for the generation of safe collision avoiding trajectories for autonomous vehicles. Current results are summarized in the [public report] (../papers/autonobus_public_report.pdf) and in the accompanying [video]().
+I'm a Research Engineer in autonomous driving at [Inria Grenoble](https://www.inria.fr/en/centre/grenoble/welcome-inria-grenoble-rhone-alpes). My current work focuses on the use of Model Predictive Control for the generation of safe collision avoiding trajectories for autonomous vehicles. Current results are summarized in the [public report](../papers/autonobus_public_report.pdf) and in the accompanying [video]().
 
 I did my PhD in Mathematics and Computer Science at [Inria Grenoble](https://www.inria.fr/en/centre/grenoble/welcome-inria-grenoble-rhone-alpes). My doctoral work within the [Bipop research team](http://www.inrialpes.fr/bipop/) focused on the numerical mechanics of thin elastic structures in contact. I also taught several applied math courses at [ENSIMAG](http://ensimag.grenoble-inp.fr/l-ensimag/) in the Grenoble Institute of Technology.
 
