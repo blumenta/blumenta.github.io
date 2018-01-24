@@ -20,6 +20,9 @@ A collection of jupyter/ipython notebooks on machine learning and optimization.
 ## Keras notes
 * [Simple MLP for MNIST using the Sequential model API](https://github.com/blumenta/machine-learning-notebooks/blob/master/keras-notes/keras-notes.ipynb)
 
+## Chainer notes
+* [Linear Regression and MLP for MNIST in Chainer](https://github.com/blumenta/machine-learning-notebooks/blob/master/chainer-notes/chainer_intro.ipynb)
+
 ## ml-coursera
 My solutions to some of the programming assignments in Andrew Ng's Machine Learning mooc on Coursera.
 
