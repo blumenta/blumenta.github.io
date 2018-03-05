@@ -1,3 +1,11 @@
+---
+layout:     post
+title:      "Test"
+subtitle:   "Hosted on github pages"
+date:       2018-03-03 12:00:00
+author:     "Alejandro Blumentals"
+header-img: "../img/post-sample-img.jpg"
+---
 
 
 ```python
