@@ -2,7 +2,7 @@
 layout: page
 title: "Notebooks"
 description: "A collection of notebooks on Machine Learning, Numerics, Control and Optimization."
-header-img: "img/about-bg.jpg"
+header-img: "img/calanques.jpg"
 ---
 
 # Machine Learning notebooks
