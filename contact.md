@@ -2,7 +2,7 @@
 layout: page
 title: "Contact"
 description: "Artificial Intelligence and Robotics Engineer"
-header-img: "img/imperia.jpg"
+header-img: "img/valdevequeros.jpg"
 ---
 
 About me

@@ -2,7 +2,7 @@
 layout: page
 title: "Research"
 description: ""
-header-img: "img/meersburg.jpg"
+header-img: "img/bolonia.jpg"
 ---
 
 # About me

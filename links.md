@@ -2,7 +2,7 @@
 layout: page
 title: "Misc"
 description: "Mostly links to awesome courses and presentations."
-header-img: "img/about-bg.jpg"
+header-img: "img/cordoba.jpg"
 ---
 
 Optimization
