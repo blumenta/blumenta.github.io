@@ -2,7 +2,7 @@
 layout: page
 title: "Contact"
 description: "Artificial Intelligence and Robotics Engineer"
-header-img: "img/notre_dame_grenoble.jpg"
+header-img: "img/imperia.jpg"
 ---
 
 About me
