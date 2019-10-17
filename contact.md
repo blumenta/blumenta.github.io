@@ -1,20 +1,20 @@
 ---
 layout: page
 title: "Contact"
-description: "Artificial Intelligence and Robotics Engineer"
+description: " "
 header-img: "img/valdevequeros.jpg"
 ---
 
 About me
 --------------------
 
-I'm currently a Machine Learning Engineer working in Autonomous Driving at ZF Friedrichshafen.
-In my last position I was a Research Engineer and a PhD student at [Inria Grenoble](https://www.inria.fr/en/centre/grenoble/welcome-inria-grenoble-rhone-alpes). 
+I'm a French/Venezuelan/Latvian Applied Mathematician and Computer Scientist.
+I'm passionate about statistics, optimization and data. When I'm not geeking around math or programming I'm cycling, climbing or painting.
 
+If you'd like to talk to me about any of those topics, here is my contact info.
 
 Contact
 ---------------------
 
 * mail: alejandro.blumentals@gmail.com
 * [LinkedIn](http://www.linkedin.com/in/alejandro-blumentals/)
-* [Resume/CV](../papers/blumentals_cv.pdf)
