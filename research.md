@@ -3,6 +3,7 @@ layout: page
 title: "Research"
 description: ""
 header-img: "img/bolonia.jpg"
+youtubeIdMPC: "vvs8lOsiN2I"
 ---
 
 # About me
@@ -32,3 +33,4 @@ Alejandro Blumentals, Florence Bertails-Descoubles. [A Discrete Hamilton-Pontrya
 
 ## Reports
 Model Predictive Control for the generation of safe collision avoiding trajectories for autonomous vehicles. Current results are summarized in the [public report](../papers/autonobus_public_report.pdf) and in the accompanying [video](https://www.youtube.com/watch?v=vvs8lOsiN2I).
+{% include youtube.html id=page.youtubeIdMPC %}
