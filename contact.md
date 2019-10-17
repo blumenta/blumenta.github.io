@@ -9,9 +9,9 @@ About me
 --------------------
 
 I'm a French/Venezuelan/Latvian Applied Mathematician and Computer Scientist.
-I'm passionate about statistics, optimization and data. When I'm not geeking around math or programming I'm cycling, climbing or painting.
+I'm passionate about statistics, optimization and data. When I'm not geeking around with math or programming you'll find me cycling, climbing or painting.
 
-If you'd like to talk to me about any of those topics, here is my contact info.
+If you'd like to talk to me about any of those topics, here is my contact info:
 
 Contact
 ---------------------
