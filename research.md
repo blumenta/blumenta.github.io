@@ -17,9 +17,8 @@ Below is a list of my publications.
 # Publications
 
 ## PhD Thesis
-Alejandro Blumentals. [Numerical modelling of thin elastic solids in contact.](https://tel.archives-ouvertes.fr/tel-01682985/)
 
-[![](http://img.youtube.com/vi/6Lc4SSCR22E/0.jpg)](http://www.youtube.com/watch?v=6Lc4SSCR22E "plectoneme")
+Alejandro Blumentals. [Numerical modelling of thin elastic solids in contact.](https://tel.archives-ouvertes.fr/tel-01682985/)
 
 ## Journal
 
