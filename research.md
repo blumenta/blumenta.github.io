@@ -19,8 +19,6 @@ Below is a list of my publications.
 ## PhD Thesis
 Alejandro Blumentals. [Numerical modelling of thin elastic solids in contact.](https://tel.archives-ouvertes.fr/tel-01682985/)
 
-![video](https://youtu.be/6Lc4SSCR22E)
-
 ## Journal
 
 Alejandro Blumentals, Bernard Brogliato, Florence Bertails-Descoubes. [The contact problem in Lagrangian systems subject to bilateral and unilateral constraints, with or without sliding Coulomb's friction: A tutorial.](http://dx.doi.org/10.1007/s11044-016-9527-6) Multibody System Dynamics, Springer Verlag, 2016, 38 (1), pp.43-76.
