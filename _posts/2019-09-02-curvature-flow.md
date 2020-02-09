@@ -7,19 +7,24 @@ author:     "Alejandro Blumentals"
 header-img: "../img/post-sample-img.jpg"
 ---
 
-I've been learning javascript and decided to code up a little curvature flow simulation just for fun.
+I've been learning javascript and decided to code up a little curvature flow simulation just for fun. Check it out:
 <iframe style="width: 800px; height: 800px; overflow: hidden;"  scrolling="no" frameborder="0" src="https://blumenta.github.io/curvature_flow/"></iframe>
 
 The math behind it is described in [this paper](https://www.cs.cmu.edu/~kmcrane/Projects/ConformalWillmoreFlow/paper.pdf
-) by Crane et al. 
+) by Crane et al. Essentially we'd like to push the vertices of a smooth closed curve in a direction that reduces the total bending energy of the curve while preserving its length and periodicity. 
+<div>
+<img src = "../img/cf_curve.png" width=300 height=200></img>
+<img src = "../img/cf_kin.png" width=300 height=200></img>
+</div>
+
+<img src = "../img/cf_optpb.png" width=600 height=400></img>
+
 
 # Some takeaways
 * You can host javascript projects directly on github pages. 
    * Check out the deployed [demo](https://blumenta.github.io/curvature_flow/) and [repo](https://github.com/blumenta/curvature_flow).
-   * You can directly embed the deployed p5.js sketch in html or jekyll markdown using an iframe
-   ```html
-   <iframe style="width: 800px; height: 800px; overflow: hidden;"  scrolling="no" frameborder="0" src="https://blumenta.github.io/curvature_flow/"></iframe>
-   ```
+   * You can directly embed the deployed p5.js sketch in html or jekyll markdown using an iframe.
+
 * You can use vectorized array computations in javascript using tensorflow.js. You don't have all of the linear algebra functionality of numpy as far as solving linear equations goes. But you do get a Gram Schmidt decomposition, which is just what I needed here.
     ```javascript
     projectOnConstraints(f) {
@@ -44,4 +49,4 @@ The math behind it is described in [this paper](https://www.cs.cmu.edu/~kmcrane/
         res = tf.sub(b,res);
         return res.arraySync();
     }
-```
+    ```
