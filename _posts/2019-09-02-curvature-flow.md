@@ -6,11 +6,16 @@ date:       2019-02-09 12:00:00
 author:     "Alejandro Blumentals"
 ---
 
-I've been learning javascript and decided to code up a little curvature flow simulation just for fun. Check it
+I've been learning javascript and decided to code up a little curvature flow simulation just for fun. Check it out:
+
 <iframe style="width: 800px; height: 800px; overflow: hidden;"  scrolling="no" frameborder="0" src="https://blumenta.github.io/curvature_flow/"></iframe>
 
 The math behind it is described in [this paper](https://www.cs.cmu.edu/~kmcrane/Projects/ConformalWillmoreFlow/paper.pdf
 ) by Crane et al. Essentially we'd like to push the vertices of a smooth closed curve in a direction that reduces the total bending energy of the curve while preserving its length and periodicity. 
+
+<img src="{{site.baseurl}}/img/cf_curve.png"/>
+<img src="{{site.baseurl}}/img/cf_kin.PNG"/>
+<img src="{{site.baseurl}}/img/cf_optpb.PNG"/>
 
 
 # Some takeaways
