@@ -15,7 +15,7 @@ In this notebook we implement two agents:
 * a RandomAgent which just takes actions at random 
 * a BayesianAgent which 
    * keeps a posterior distribution for each bandit updated
-   * at each step draws a probability from the posteriors and chooses the bandit with the highest drwan probability. 
+   * at each step draws a probability from the posteriors and chooses the bandit with the highest drawn probability. 
 
 ```python
 import numpy as np
